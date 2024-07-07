@@ -14,4 +14,5 @@
 - PostgreSQL
 
 ### API REST:
-[![Gutendex API]](https://gutendex.com/)
+[Gutendex API](https://gutendex.com/)
+
